@@ -1,16 +1,15 @@
-# contatdor_pessoas_flutter
+#Contador de pessoas
 
-A new Flutter project.
+## Uso
 
-## Getting Started
+Este projeto é um em Flutter , simulando um contador de pessoas.
 
-This project is a starting point for a Flutter application.
+Contabiliza ate 20 pessoas, ao fim da contagem ele sinaliza que atingiu o numero maximo de pessoas.
 
-A few resources to get you started if this is your first Flutter project:
+#People counter
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Usage
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This project is one in Flutter, simulating a people counter.
+
+It counts up to 20 people, at the end of the count it signals that the maximum number of people has been reached.
