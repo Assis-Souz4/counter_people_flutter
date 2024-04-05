@@ -1,4 +1,4 @@
-#Contador de pessoas
+# Contador de pessoas
 
 ## Uso
 
@@ -6,7 +6,7 @@ Este projeto é um em Flutter , simulando um contador de pessoas.
 
 Contabiliza ate 20 pessoas, ao fim da contagem ele sinaliza que atingiu o numero maximo de pessoas.
 
-#People counter
+# People counter
 
 ## Usage
 
